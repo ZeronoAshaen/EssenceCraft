@@ -1,0 +1,6 @@
+package com.zerono.essencecraft.proxy.c;
+
+public interface IProxy
+{
+    
+}

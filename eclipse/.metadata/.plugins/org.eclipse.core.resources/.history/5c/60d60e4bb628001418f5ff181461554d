@@ -1,0 +1,10 @@
+package com.zerono.essencecraft.utility;
+
+import com.zerono.essencecraft.reference.Reference;
+
+import cpw.mods.fml.common.FMLLog;
+
+public class LogHelper
+{
+    
+}

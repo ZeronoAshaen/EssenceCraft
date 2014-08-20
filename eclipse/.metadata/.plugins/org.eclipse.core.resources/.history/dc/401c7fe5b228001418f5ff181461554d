@@ -1,0 +1,6 @@
+package com.zerono.essencecraft.client.gui;
+
+public class GuiConfig
+{
+
+}

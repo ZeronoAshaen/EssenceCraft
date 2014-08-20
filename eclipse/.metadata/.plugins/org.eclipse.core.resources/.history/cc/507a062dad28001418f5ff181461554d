@@ -1,0 +1,6 @@
+package com.zerono.essencecraft.configuration;
+
+public class ConfigurationHandler
+{
+
+}

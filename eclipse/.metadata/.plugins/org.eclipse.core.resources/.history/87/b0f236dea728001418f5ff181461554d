@@ -1,0 +1,6 @@
+package com.zerono.essencecraft.proxy.c;
+
+public class ClientProxy extends CommonProxy
+{
+
+}

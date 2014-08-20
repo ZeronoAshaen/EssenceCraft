@@ -1,0 +1,6 @@
+package com.zerono.essencecraft.handlers;
+
+public class GuiFactory
+{
+
+}
