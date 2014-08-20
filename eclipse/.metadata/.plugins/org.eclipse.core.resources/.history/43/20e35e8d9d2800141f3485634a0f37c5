@@ -1,0 +1,8 @@
+package com.zerono.essencecraft;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid="EssenceCraft", name="Essence Craft",version="1.7.10-0.0.1")
+public class EssenceCraft {
+
+}

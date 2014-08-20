@@ -1,0 +1,13 @@
+[13:53:22] [main/INFO]: Setting user: ForgeDevName
+[13:53:23] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:53:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Essence Craft
+[13:53:28] [Sound Library Loader/INFO]: Sound engine started
+[13:53:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[13:53:30] [Client thread/ERROR]: @ Pre startup
+[13:53:30] [Client thread/ERROR]: 1280: Invalid enum
+[13:53:30] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:53:30] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:53:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Essence Craft
+[13:53:30] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:53:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:53:32] [Sound Library Loader/INFO]: Sound engine started
