@@ -1,0 +1,6 @@
+package com.zerono.essencecraft.network;
+
+public class PacketHandler
+{
+
+}

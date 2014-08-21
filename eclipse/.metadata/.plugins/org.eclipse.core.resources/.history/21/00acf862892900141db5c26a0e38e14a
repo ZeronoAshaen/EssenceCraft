@@ -1,0 +1,6 @@
+package com.zerono.essencecraft.network.message;
+
+public class MessageTileEntityEC
+{
+
+}
