@@ -1,0 +1,18 @@
+package com.zerono.essencecraft.init;
+
+import com.zerono.essencecraft.items.ItemEC;
+import com.zerono.essencecraft.items.ItemInertDust;
+import com.zerono.essencecraft.reference.Reference;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+@GameRegistry.ObjectHolder(Reference.MOD_ID)
+public class ModItems
+{
+    public static final ItemEC inertDust = new ItemInertDust();
+    
+    public static void Init()
+    {
+        GameRegistry.registerItem(inertDust, "inertDust");
+    }
+}

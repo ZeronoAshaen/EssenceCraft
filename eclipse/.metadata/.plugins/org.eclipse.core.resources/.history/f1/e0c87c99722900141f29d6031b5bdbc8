@@ -1,0 +1,11 @@
+package com.zerono.essencecraft.items;
+
+public class ItemInertPearl extends ItemEC
+{
+    public ItemInertPearl()
+    {
+        super();
+        this.setMaxStackSize(16);
+        this.setUnlocalizedName("inertPearl");
+    }
+}

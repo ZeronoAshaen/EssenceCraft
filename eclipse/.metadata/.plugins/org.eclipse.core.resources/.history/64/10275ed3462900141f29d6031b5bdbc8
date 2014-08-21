@@ -1,0 +1,12 @@
+package com.zerono.essencecraft.blocks;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class BlockEC  extends Block
+{
+    public BlockEC(Material material)
+    {
+        super(material);
+    }
+}

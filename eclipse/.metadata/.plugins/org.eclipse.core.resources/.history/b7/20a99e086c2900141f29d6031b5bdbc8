@@ -1,0 +1,16 @@
+package com.zerono.essencecraft.init;
+
+import net.minecraft.init.Items;
+import net.minecraft.item.ItemStack;
+import net.minecraftforge.oredict.ShapelessOreRecipe;
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class Recipes
+{
+    public static void Init()
+    {
+        GameRegistry.addShapelessRecipe(new ItemStack(ModItems.redstoneSolution), new ItemStack(Items.redstone), new ItemStack(Items.water_bucket), new ItemStack(Items.glass_bottle));
+        GameRegistry.addShapelessRecipe(new ItemStack(ModItems.glowstoneSolution), new ItemStack(Items.glowstone_dust), new ItemStack(Items.water_bucket), new ItemStack(Items.glass_bottle));
+        GameRegistry.addRecipe(new ShapelessOreRecipe(new ItemStack(ModItems.enderSolution), "dustEnderPearl", new ItemStack(Items.water_bucket), new ItemStack(Items.glass_bottle)));
+    }
+}

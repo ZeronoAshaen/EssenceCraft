@@ -1,0 +1,9 @@
+package com.zerono.essencecraft.blocks;
+
+public class BlockEssenceExtractor extends BlockEC
+{
+    public BlockEssenceExtractor()
+    {
+        
+    }
+}

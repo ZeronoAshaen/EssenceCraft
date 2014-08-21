@@ -1,11 +1,16 @@
 package com.zerono.essencecraft;
 
 import com.zerono.essencecraft.handlers.ConfigurationHandler;
+import com.zerono.essencecraft.init.ModBlocks;
+import com.zerono.essencecraft.init.ModItems;
+import com.zerono.essencecraft.init.Recipes;
+import com.zerono.essencecraft.init.RegOre;
 import com.zerono.essencecraft.proxy.IProxy;
 import com.zerono.essencecraft.reference.Reference;
 import com.zerono.essencecraft.utility.LogHelper;
 import com.zerono.essencecraft.reference.Messages;
 
+import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Instance;
 import cpw.mods.fml.common.SidedProxy;
@@ -43,18 +48,24 @@ public class EssenceCraft
     public void preInit(FMLPreInitializationEvent event)
     {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+        FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+        ModItems.Init();
+        ModBlocks.init();
+        RegOre.init();
+        LogHelper.info("PreInit Complete");
     }
     
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
-        
+        Recipes.Init();
+        LogHelper.info("Init Complete");
     }
     
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
-        
+        LogHelper.info("postInit Complete");
     }
     
 }

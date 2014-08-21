@@ -1,0 +1,8 @@
+package com.zerono.essencecraft.item;
+
+import net.minecraft.item.Item;
+
+public class ItemEC extends Item
+{
+
+}

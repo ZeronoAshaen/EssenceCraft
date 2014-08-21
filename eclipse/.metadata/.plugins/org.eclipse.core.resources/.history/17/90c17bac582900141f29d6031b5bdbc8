@@ -1,0 +1,31 @@
+# Configuration
+
+# Keys
+
+# Creative Tabs
+itemGroup.essencecraft=Essence Craft
+
+# Items
+item.essencecraft:redstoneSolution.name=Redstone Solution
+item.essencecraft:glowstoneSolution.name=Glowstone Solution
+item.essencecraft:enderSolution.name=Ender Solution
+
+item.essencecraft:solution.redstone.name=Redstone Solution
+item.essencecraft:solution.glowstone.name=Glowstone Solution
+item.essencecraft:solution.ender.name=Ender Solution
+
+item.essencecraft:redstoneEssence.name=Redstone Essence
+item.essencecraft:glowstoneEssence.name=Glowstone Essence
+item.essencecraft:enderEssence.name=Ender Essence
+
+item.essencecraft:essence.redstone.name=Redstone Essence
+item.essencecraft:essence.glowstone.name=Glowstone Essence
+item.essencecraft:essence.ender.name=Ender Essence
+
+
+item.essencecraft:inertDust.name=Inert Dust
+
+
+# Blocks
+tile.essencecraft:inertStone.name=Inert Stone
+tile.essencecraft:essenceExtractor.name=Essence Extractor

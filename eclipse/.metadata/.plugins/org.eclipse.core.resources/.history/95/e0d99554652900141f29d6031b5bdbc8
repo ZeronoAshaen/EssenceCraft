@@ -1,0 +1,11 @@
+package com.zerono.essencecraft.items;
+
+import net.minecraftforge.oredict.OreDictionary;
+
+public class ItemEnderDust
+{
+    public ItemEnderDust()
+    {
+        
+    }
+}

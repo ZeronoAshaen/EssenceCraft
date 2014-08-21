@@ -1,0 +1,13 @@
+package com.zerono.essencecraft.items;
+
+import net.minecraftforge.oredict.OreDictionary;
+
+public class ItemDustEnder extends ItemEC
+{
+    public ItemDustEnder()
+    {
+        super();
+        this.setMaxStackSize(64);
+        this.setUnlocalizedName("dustEnderPearl");
+    }
+}

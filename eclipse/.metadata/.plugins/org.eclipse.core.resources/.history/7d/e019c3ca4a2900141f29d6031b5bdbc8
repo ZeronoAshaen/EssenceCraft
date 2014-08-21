@@ -1,0 +1,13 @@
+package com.zerono.essencecraft.blocks;
+
+public class BlockInertStone extends BlockEC
+{
+    public BlockInertStone()
+    {
+        super();
+        this.setBlockName("inertStone");
+        this.setBlockTextureName("inertStone");
+        this.setHardness(1.5F);
+        this.setResistance(10.0F);
+    }
+}

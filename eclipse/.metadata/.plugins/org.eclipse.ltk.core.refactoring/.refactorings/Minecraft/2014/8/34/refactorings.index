@@ -4,3 +4,8 @@
 1408570728576	Move compilation unit
 1408570890687	Move compilation unit
 1408570954787	Rename type 'GuiConfig'
+1408631340703	Rename type 'InertDust'
+1408633487216	Rename package 'com.zerono.essencecraft.item'
+1408637451714	Rename type 'RedstoneSolution'
+1408647591674	Rename type 'ItemEnderDust'
+1408656117079	Rename compilation unit 'BlockEssenceExtractor.java'

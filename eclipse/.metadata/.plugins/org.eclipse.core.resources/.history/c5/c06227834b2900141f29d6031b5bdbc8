@@ -1,0 +1,40 @@
+package com.zerono.essencecraft.createiveTab;
+
+import com.zerono.essencecraft.init.ModBlocks;
+import com.zerono.essencecraft.init.ModItems;
+import com.zerono.essencecraft.reference.Reference;
+
+import net.minecraft.creativetab.CreativeTabs;
+
+public class CreativeTabEC
+{
+    public static final CreativeTabs EC_ITEMS_TAB = new CreativeTabs(Reference.MOD_ID) 
+    {
+        @Override
+        public Item getTabIconItem()
+        {
+            return ModItems.inertDust;
+        }
+        
+        @Override
+        public String getTranslatedTabLabel()
+        {
+            return "Essence Craft Items";
+        }
+    };
+    
+    public static final CreativeTabs EC_BLOCKS_TAB = new CreativeTabs(Reference.MOD_ID)
+    {
+        @Override
+        public Item getTabIconItem()
+        {
+            return ModBlocks.inertStone;
+        }
+        
+        @Override
+        public String getTranslatedTabLabel()
+        {
+            return "Essence Craft Blocks";
+        }
+    };
+}
