@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_acdzoSiTEeSf9dIrn1l6Rw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_acdzoiiTEeSf9dIrn1l6Rw" bindingContexts="_acdzqyiTEeSf9dIrn1l6Rw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;TileEntityBrewingStand.class&quot; tooltip=&quot;net.minecraft.tileentity.TileEntityBrewingStand&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=Minecraft/C:\/Users\/Phineas\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.7.10-10.13.0.1180\/forgeSrc-1.7.10-10.13.0.1180.jar&amp;lt;net.minecraft.tileentity(TileEntityBrewingStand.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MessageTileEntityEC.java&quot; tooltip=&quot;Minecraft/src/main/java/com/zerono/essencecraft/network/message/MessageTileEntityEC.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/java/com/zerono/essencecraft/network/message/MessageTileEntityEC.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PacketHandler.java&quot; tooltip=&quot;Minecraft/src/main/java/com/zerono/essencecraft/network/PacketHandler.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/java/com/zerono/essencecraft/network/PacketHandler.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BlockEC.java&quot; tooltip=&quot;Minecraft/src/main/java/com/zerono/essencecraft/blocks/BlockEC.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/java/com/zerono/essencecraft/blocks/BlockEC.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;TileEntityBrewingStand.class&quot; tooltip=&quot;net.minecraft.tileentity.TileEntityBrewingStand&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=Minecraft/C:\/Users\/Fawkes\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.7.10-10.13.0.1180\/forgeSrc-1.7.10-10.13.0.1180.jar&amp;lt;net.minecraft.tileentity(TileEntityBrewingStand.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MessageTileEntityEC.java&quot; tooltip=&quot;Minecraft/src/main/java/com/zerono/essencecraft/network/message/MessageTileEntityEC.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/java/com/zerono/essencecraft/network/message/MessageTileEntityEC.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PacketHandler.java&quot; tooltip=&quot;Minecraft/src/main/java/com/zerono/essencecraft/network/PacketHandler.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/java/com/zerono/essencecraft/network/PacketHandler.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BlockEC.java&quot; tooltip=&quot;Minecraft/src/main/java/com/zerono/essencecraft/blocks/BlockEC.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/java/com/zerono/essencecraft/blocks/BlockEC.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_acdzoiiTEeSf9dIrn1l6Rw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_awCP4CiTEeSf9dIrn1l6Rw" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="640" height="760">
@@ -11,7 +11,7 @@
     <tags>topLevel</tags>
     <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_awCP4CiTEeSf9dIrn1l6Rw" selectedElement="_awCP4SiTEeSf9dIrn1l6Rw" horizontal="true">
-      <children xsi:type="advanced:PerspectiveStack" xmi:id="_awCP4SiTEeSf9dIrn1l6Rw" elementId="PerspectiveStack" containerData="7500" selectedElement="_qgJDACmNEeS0aKBrPufoxQ">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_awCP4SiTEeSf9dIrn1l6Rw" elementId="PerspectiveStack" containerData="7500" selectedElement="_bCstMCiTEeSf9dIrn1l6Rw">
         <children xsi:type="advanced:Perspective" xmi:id="_bCstMCiTEeSf9dIrn1l6Rw" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_bCuiYCiTEeSf9dIrn1l6Rw" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/jperspective.gif">
           <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,"/>
           <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
@@ -100,6 +100,17 @@
               </children>
             </children>
           </children>
+          <windows xsi:type="basic:TrimmedWindow" xmi:id="_wf0-cCmWEeSl17BcNE1_nw" selectedElement="_wf0-cSmWEeSl17BcNE1_nw" x="1996" y="76" width="941" height="776">
+            <tags>shellMaximized</tags>
+            <children xsi:type="basic:PartStack" xmi:id="_wf0-cSmWEeSl17BcNE1_nw" elementId="PartStack@78785e8d" selectedElement="_wI6TQCmWEeSl17BcNE1_nw">
+              <children xsi:type="basic:Part" xmi:id="_wI6TQCmWEeSl17BcNE1_nw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TileEntityBrewingStand.class" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/classf_obj.gif" closeable="true">
+                <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;TileEntityBrewingStand.class&quot; partName=&quot;TileEntityBrewingStand.class&quot; title=&quot;TileEntityBrewingStand.class&quot; tooltip=&quot;net.minecraft.tileentity.TileEntityBrewingStand&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=Minecraft/C:\/Users\/Fawkes\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.7.10-10.13.0.1180\/forgeSrc-1.7.10-10.13.0.1180.jar&amp;lt;net.minecraft.tileentity(TileEntityBrewingStand.class&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1739&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+                <tags>Editor</tags>
+                <tags>org.eclipse.jdt.ui.ClassFileEditor</tags>
+                <tags>removeOnHide</tags>
+              </children>
+            </children>
+          </windows>
         </children>
         <children xsi:type="advanced:Perspective" xmi:id="_qgJDACmNEeS0aKBrPufoxQ" elementId="org.eclipse.egit.ui.GitRepositoryExploring" selectedElement="_qgJDASmNEeS0aKBrPufoxQ" label="Git" iconURI="platform:/plugin/org.eclipse.egit.ui/icons/obj16/gitrepository.gif">
           <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,"/>
@@ -121,7 +132,6 @@
             <children xsi:type="basic:PartSashContainer" xmi:id="_qgJDAimNEeS0aKBrPufoxQ" containerData="5000" selectedElement="_qgJDAymNEeS0aKBrPufoxQ">
               <children xsi:type="basic:PartStack" xmi:id="_qgJDAymNEeS0aKBrPufoxQ" elementId="org.eclipse.egit.ui.RepositoriesViewMStack" containerData="7000" selectedElement="_qgJDBCmNEeS0aKBrPufoxQ">
                 <tags>newtablook</tags>
-                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_qgJDBCmNEeS0aKBrPufoxQ" elementId="org.eclipse.egit.ui.RepositoriesView" ref="_qf9c0CmNEeS0aKBrPufoxQ"/>
               </children>
               <children xsi:type="basic:PartStack" xmi:id="_qgJDBSmNEeS0aKBrPufoxQ" elementId="org.eclipse.jdt.ui.PackageExplorerMStack" toBeRendered="false" containerData="3000">
@@ -166,31 +176,24 @@
       <tags>View</tags>
       <tags>categoryTag:Help</tags>
     </sharedElements>
-    <sharedElements xsi:type="advanced:Area" xmi:id="_bBLqQCiTEeSf9dIrn1l6Rw" elementId="org.eclipse.ui.editorss" selectedElement="_J3f84CmNEeS0aKBrPufoxQ">
-      <children xsi:type="basic:PartSashContainer" xmi:id="_J3f84CmNEeS0aKBrPufoxQ" selectedElement="_bBMRUCiTEeSf9dIrn1l6Rw" horizontal="true">
-        <children xsi:type="basic:PartStack" xmi:id="_bBMRUCiTEeSf9dIrn1l6Rw" elementId="org.eclipse.e4.primaryDataStack" containerData="9000" selectedElement="_JAZs4Cl5EeSKjssvZkwlRw">
-          <tags>newtablook</tags>
-          <tags>org.eclipse.e4.primaryDataStack</tags>
-          <tags>EditorStack</tags>
-          <children xsi:type="basic:Part" xmi:id="_YAdAACiaEeSf9dIrn1l6Rw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="EssenceCraft.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/main/java/com/zerono/essencecraft/EssenceCraft.java" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/main/java/com/zerono/essencecraft/EssenceCraft.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2151&quot; selectionTopPixel=&quot;419&quot;/>&#xD;&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>removeOnHide</tags>
-          </children>
-          <children xsi:type="basic:Part" xmi:id="_JAZs4Cl5EeSKjssvZkwlRw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TileEntityBasicEssenceExtractor.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/main/java/com/zerono/essencecraft/tileEntity/TileEntityBasicEssenceExtractor.java" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TileEntityBasicEssenceExtractor.java&quot; partName=&quot;TileEntityBasicEssenceExtractor.java&quot; title=&quot;TileEntityBasicEssenceExtractor.java&quot; tooltip=&quot;Minecraft/src/main/java/com/zerono/essencecraft/tileEntity/TileEntityBasicEssenceExtractor.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/main/java/com/zerono/essencecraft/tileEntity/TileEntityBasicEssenceExtractor.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;260&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-            <tags>removeOnHide</tags>
-          </children>
+    <sharedElements xsi:type="advanced:Area" xmi:id="_bBLqQCiTEeSf9dIrn1l6Rw" elementId="org.eclipse.ui.editorss" selectedElement="_bBMRUCiTEeSf9dIrn1l6Rw">
+      <children xsi:type="basic:PartStack" xmi:id="_bBMRUCiTEeSf9dIrn1l6Rw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_JAZs4Cl5EeSKjssvZkwlRw">
+        <tags>newtablook</tags>
+        <tags>org.eclipse.e4.primaryDataStack</tags>
+        <tags>EditorStack</tags>
+        <tags>active</tags>
+        <children xsi:type="basic:Part" xmi:id="_YAdAACiaEeSf9dIrn1l6Rw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="EssenceCraft.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/main/java/com/zerono/essencecraft/EssenceCraft.java" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/main/java/com/zerono/essencecraft/EssenceCraft.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2151&quot; selectionTopPixel=&quot;419&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:PartStack" xmi:id="_J3gj8CmNEeS0aKBrPufoxQ" elementId="PartStack@4780be" containerData="1000" selectedElement="_HEitECmNEeS0aKBrPufoxQ">
-          <children xsi:type="basic:Part" xmi:id="_HEitECmNEeS0aKBrPufoxQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TileEntityBrewingStand.class" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/classf_obj.gif" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;TileEntityBrewingStand.class&quot; partName=&quot;TileEntityBrewingStand.class&quot; title=&quot;TileEntityBrewingStand.class&quot; tooltip=&quot;net.minecraft.tileentity.TileEntityBrewingStand&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=Minecraft/C:\/Users\/Phineas\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.7.10-10.13.0.1180\/forgeSrc-1.7.10-10.13.0.1180.jar&amp;lt;net.minecraft.tileentity(TileEntityBrewingStand.class&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>org.eclipse.jdt.ui.ClassFileEditor</tags>
-            <tags>removeOnHide</tags>
-          </children>
+        <children xsi:type="basic:Part" xmi:id="_JAZs4Cl5EeSKjssvZkwlRw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TileEntityBasicEssenceExtractor.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/main/java/com/zerono/essencecraft/tileEntity/TileEntityBasicEssenceExtractor.java" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TileEntityBasicEssenceExtractor.java&quot; partName=&quot;TileEntityBasicEssenceExtractor.java&quot; title=&quot;TileEntityBasicEssenceExtractor.java&quot; tooltip=&quot;Minecraft/src/main/java/com/zerono/essencecraft/tileEntity/TileEntityBasicEssenceExtractor.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/main/java/com/zerono/essencecraft/tileEntity/TileEntityBasicEssenceExtractor.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;374&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -296,8 +299,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:Git</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_qivEACmNEeS0aKBrPufoxQ" elementId="org.eclipse.egit.ui.RepositoriesView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -337,7 +338,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3DhD4CikEeSuzfw5snxzPQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_hm6SICmFEeS0aKBrPufoxQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_ada18yiTEeSf9dIrn1l6Rw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_XIuzUCmWEeSl17BcNE1_nw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_ada18yiTEeSf9dIrn1l6Rw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3Dhq8CikEeSuzfw5snxzPQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -349,7 +350,7 @@
       <children xsi:type="menu:ToolBar" xmi:id="_3MCGsCikEeSuzfw5snxzPQ" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_3L0EQCikEeSuzfw5snxzPQ" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet" visible="false">
+      <children xsi:type="menu:ToolBar" xmi:id="_3L0EQCikEeSuzfw5snxzPQ" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3MDU0CikEeSuzfw5snxzPQ" elementId="org.eclipse.search.searchActionSet">
@@ -364,7 +365,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3Di5ECikEeSuzfw5snxzPQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_hnaocCmFEeS0aKBrPufoxQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_adUINyiTEeSf9dIrn1l6Rw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_XI058SmWEeSl17BcNE1_nw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_adUINyiTEeSf9dIrn1l6Rw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3DjgICikEeSuzfw5snxzPQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -402,11 +403,11 @@
         <tags>TrimStack</tags>
       </children>
     </trimBars>
-    <trimBars xmi:id="_vgAWgCihEeSf9dIrn1l6Rw" elementId="org.eclipse.ui.trim.vertical2" toBeRendered="false" side="Right">
-      <children xsi:type="menu:ToolControl" xmi:id="_vgCLsCihEeSf9dIrn1l6Rw" elementId="right(org.eclipse.jdt.ui.JavaPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+    <trimBars xmi:id="_vgAWgCihEeSf9dIrn1l6Rw" elementId="org.eclipse.ui.trim.vertical2" side="Right">
+      <children xsi:type="menu:ToolControl" xmi:id="_vgCLsCihEeSf9dIrn1l6Rw" elementId="right(org.eclipse.jdt.ui.JavaPerspective)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
       </children>
-      <children xsi:type="menu:ToolControl" xmi:id="_vgjJECihEeSf9dIrn1l6Rw" elementId="bottom(org.eclipse.jdt.ui.JavaPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+      <children xsi:type="menu:ToolControl" xmi:id="_vgjJECihEeSf9dIrn1l6Rw" elementId="bottom(org.eclipse.jdt.ui.JavaPerspective)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
       </children>
     </trimBars>
@@ -640,12 +641,14 @@
     <bindings xmi:id="_aezV9SiTEeSf9dIrn1l6Rw" keySequence="CTRL+SHIFT+C" command="_adUIOyiTEeSf9dIrn1l6Rw"/>
     <bindings xmi:id="_aezV9yiTEeSf9dIrn1l6Rw" keySequence="ALT+SHIFT+ARROW_RIGHT" command="_adfHaCiTEeSf9dIrn1l6Rw"/>
     <bindings xmi:id="_aez9AyiTEeSf9dIrn1l6Rw" keySequence="CTRL+SHIFT+\" command="_adfuYiiTEeSf9dIrn1l6Rw"/>
+    <bindings xmi:id="_W1nqECmWEeSl17BcNE1_nw" keySequence="CTRL+2 M" command="_W02OASmWEeSl17BcNE1_nw"/>
   </bindingTables>
   <bindingTables xmi:id="_aedXtSiTEeSf9dIrn1l6Rw" elementId="org.eclipse.ant.ui.AntEditorScope" bindingContext="_adlN9CiTEeSf9dIrn1l6Rw">
     <bindings xmi:id="_aedXtiiTEeSf9dIrn1l6Rw" keySequence="CTRL+SHIFT+F" command="_ada15iiTEeSf9dIrn1l6Rw"/>
     <bindings xmi:id="_aeo95SiTEeSf9dIrn1l6Rw" keySequence="ALT+SHIFT+O" command="_adfHVCiTEeSf9dIrn1l6Rw"/>
     <bindings xmi:id="_aepk9CiTEeSf9dIrn1l6Rw" keySequence="ALT+SHIFT+R" command="_adUIMyiTEeSf9dIrn1l6Rw"/>
     <bindings xmi:id="_aeqMCCiTEeSf9dIrn1l6Rw" keySequence="SHIFT+F2" command="_adWkgSiTEeSf9dIrn1l6Rw"/>
+    <bindings xmi:id="_W1g8YCmWEeSl17BcNE1_nw" keySequence="F3" command="_W021ECmWEeSl17BcNE1_nw"/>
   </bindingTables>
   <bindingTables xmi:id="_aed-wCiTEeSf9dIrn1l6Rw" elementId="org.eclipse.pde.ui.pdeEditorContext" bindingContext="_adlN9iiTEeSf9dIrn1l6Rw">
     <bindings xmi:id="_aed-wSiTEeSf9dIrn1l6Rw" keySequence="CTRL+SHIFT+F" command="_adXLkyiTEeSf9dIrn1l6Rw"/>
@@ -1011,6 +1014,10 @@
   <descriptors xmi:id="_hEQ4ECmFEeS0aKBrPufoxQ" elementId="org.eclipse.egit.ui.ReflogView" label="Git Reflog" iconURI="platform:/plugin/org.eclipse.egit.ui/icons/eview16/reflog.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
     <tags>View</tags>
     <tags>categoryTag:Git</tags>
+  </descriptors>
+  <descriptors xmi:id="_W4Mc8CmWEeSl17BcNE1_nw" elementId="org.eclipse.pde.ui.ImageBrowserView" label="Plug-in Image Browser" iconURI="platform:/plugin/org.eclipse.pde.ui/icons/obj16/psearch_obj.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Plug-in Development</tags>
   </descriptors>
   <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
     <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
@@ -1794,6 +1801,13 @@
   <commands xmi:id="_hij9oimFEeS0aKBrPufoxQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Display" commandName="Display" description="Display Result of Evaluating Selected Text" category="_adSTCiiTEeSf9dIrn1l6Rw"/>
   <commands xmi:id="_hij9oymFEeS0aKBrPufoxQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Inspect" commandName="Inspect" description="Inspect Result of Evaluating Selected Text" category="_adSTCiiTEeSf9dIrn1l6Rw"/>
   <commands xmi:id="_hikksCmFEeS0aKBrPufoxQ" elementId="AUTOGEN:::org.eclipse.pde.ui.logViewActions/org.eclipse.jdt.debug.ui.LogViewActions.showStackTrace" commandName="Show Stack Trace in Console View" description="Show Stack Trace in Console View" category="_adSTCiiTEeSf9dIrn1l6Rw"/>
+  <commands xmi:id="_W02OASmWEeSl17BcNE1_nw" elementId="org.eclipse.jdt.ui.correction.extractMethodInplace.assist" commandName="Quick Assist - Extract method" description="Invokes quick assist and selects 'Extract to method'" category="_adS6ESiTEeSf9dIrn1l6Rw"/>
+  <commands xmi:id="_W021ECmWEeSl17BcNE1_nw" elementId="org.eclipse.ant.ui.open.declaration.command" commandName="Open Declaration" description="Opens the Ant editor on the referenced element" category="_adS6ESiTEeSf9dIrn1l6Rw"/>
+  <commands xmi:id="_W021ESmWEeSl17BcNE1_nw" elementId="org.eclipse.pde.api.tools.ui.remove.filters" commandName="Remove &amp;API Problem Filters..." description="Remove API problem filters for this project" category="_adSTCiiTEeSf9dIrn1l6Rw"/>
+  <commands xmi:id="_W021EimWEeSl17BcNE1_nw" elementId="org.eclipse.pde.api.tools.ui.setup.projects" commandName="API &amp;Tools Setup..." description="Configure projects for API usage and compatibility checks" category="_adSTCiiTEeSf9dIrn1l6Rw"/>
+  <commands xmi:id="_W021EymWEeSl17BcNE1_nw" elementId="org.eclipse.pde.api.tools.ui.convert.javadocs" commandName="Convert API Tools &amp;Javadoc Tags..." description="Starts a wizard that will allow you to convert existing Javadoc tags to annotations" category="_adSTCiiTEeSf9dIrn1l6Rw"/>
+  <commands xmi:id="_W021FCmWEeSl17BcNE1_nw" elementId="org.eclipse.pde.api.tools.ui.compare.to.baseline" commandName="API Baseline..." description="Allows to compare the selected resource with the current baseline" category="_adSTCiiTEeSf9dIrn1l6Rw"/>
+  <commands xmi:id="_W021FSmWEeSl17BcNE1_nw" elementId="org.eclipse.pde.ui.imagebrowser.saveToWorkspace" commandName="Save Image" description="Save the selected image into a project in the workspace" category="_adSTCiiTEeSf9dIrn1l6Rw"/>
   <addons xmi:id="_aceasSiTEeSf9dIrn1l6Rw" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
   <addons xmi:id="_aceasiiTEeSf9dIrn1l6Rw" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
   <addons xmi:id="_aceasyiTEeSf9dIrn1l6Rw" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
