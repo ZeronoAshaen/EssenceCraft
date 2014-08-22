@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.zerono.essencecraft.configuration.ConfigurationHandler"/>
-<fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent"/>
-<fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent.OnConfigChangedEvent"/>
-<fullyQualifiedTypeName name="cpw.mods.fml.common.eventhandler.SubscribeEvent"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.client.IModGuiFactory"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.client.config.GuiConfig"/>
 <fullyQualifiedTypeName name="com.zerono.essencecraft.handlers.ConfigurationHandler"/>
@@ -17,7 +13,6 @@
 <fullyQualifiedTypeName name="com.zerono.essencecraft.item.ItemInertDust"/>
 <fullyQualifiedTypeName name="com.zerono.essencecraft.blocks.BlockEC"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry.ObjectHolder"/>
-<fullyQualifiedTypeName name="com.zerono.essencecraft.reference.Reference"/>
 <fullyQualifiedTypeName name="com.zerono.essencecraft.init.ModItems"/>
 <fullyQualifiedTypeName name="com.zerono.essencecraft.init.ModBlocks"/>
 <fullyQualifiedTypeName name="com.zerono.essencecraft.createiveTab.CreativeTabEC"/>
@@ -37,8 +32,6 @@
 <fullyQualifiedTypeName name="net.minecraft.client.renderer.texture.IIconRegister"/>
 <fullyQualifiedTypeName name="net.minecraft.item.Item"/>
 <fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
-<fullyQualifiedTypeName name="net.minecraft.nbt.NBTTagCompound"/>
-<fullyQualifiedTypeName name="net.minecraft.nbt.NBTTagList"/>
 <fullyQualifiedTypeName name="com.zerono.essencecraft.init.Recipes"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
 <fullyQualifiedTypeName name="net.minecraft.init.Items"/>
@@ -50,14 +43,21 @@
 <fullyQualifiedTypeName name="net.minecraft.init.Blocks"/>
 <fullyQualifiedTypeName name="com.zerono.essencecraft.reference.Names.Items"/>
 <fullyQualifiedTypeName name="com.zerono.essencecraft.reference.Names.Blocks"/>
-<fullyQualifiedTypeName name="com.zerono.essencecraft.reference.Names"/>
 <fullyQualifiedTypeName name="com.zerono.essencecraft.reference.Names.Machines"/>
 <fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
 <fullyQualifiedTypeName name="net.minecraft.world.World"/>
 <fullyQualifiedTypeName name="net.minecraft.block.ITileEntityProvider"/>
 <fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
 <fullyQualifiedTypeName name="com.zerono.essencecraft.tileEntity.TileEntityBasicEssenceExtractor"/>
-<fullyQualifiedTypeName name="net.minecraft.inventory.ISidedInventory"/>
 <fullyQualifiedTypeName name="net.minecraft.tileentity.TileEntity"/>
 <fullyQualifiedTypeName name="net.minecraftforge.common.util.ForgeDirection"/>
+<fullyQualifiedTypeName name="com.zerono.essencecraft.reference.Reference"/>
+<fullyQualifiedTypeName name="com.zerono.essencecraft.network.PacketHandler"/>
+<fullyQualifiedTypeName name="com.zerono.essencecraft.network.message.MessageTileEntityEC"/>
+<fullyQualifiedTypeName name="com.zerono.essencecraft.tileEntity.TileEntityEC"/>
+<fullyQualifiedTypeName name="net.minecraft.nbt.NBTTagCompound"/>
+<fullyQualifiedTypeName name="com.zerono.essencecraft.reference.Names"/>
+<fullyQualifiedTypeName name="com.zerono.essencecraft.reference.Names.NBT"/>
+<fullyQualifiedTypeName name="net.minecraft.nbt.NBTTagList"/>
+<fullyQualifiedTypeName name="net.minecraft.inventory.ISidedInventory"/>
 </qualifiedTypeNameHistroy>
