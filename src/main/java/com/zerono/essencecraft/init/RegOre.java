@@ -9,5 +9,7 @@ public class RegOre
     {
         OreDictionary.registerOre("dustEnderPearl", new ItemStack(ModItems.dustEnderPearl));
         OreDictionary.registerOre("itemDustEnderPearl", new ItemStack(ModItems.dustEnderPearl));
+        OreDictionary.registerOre("dustCoal", new ItemStack(ModItems.dustCoal));
+        OreDictionary.registerOre("oreSalt", ModItems.saltPile);
     }
 }

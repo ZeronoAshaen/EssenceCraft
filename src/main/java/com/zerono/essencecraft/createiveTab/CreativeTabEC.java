@@ -10,7 +10,7 @@ import net.minecraft.item.Item;
 
 public class CreativeTabEC
 {
-    public static final CreativeTabs EC_ITEMS_TAB = new CreativeTabs(Reference.MOD_ID.toLowerCase()) 
+    public static final CreativeTabs EC_ITEMS_TAB = new CreativeTabs(Reference.MOD_ID.toLowerCase() + ".items") 
     {
         @Override
         public Item getTabIconItem()
@@ -19,7 +19,7 @@ public class CreativeTabEC
         }
     };
     
-    public static final CreativeTabs EC_BLOCKS_TAB = new CreativeTabs(Reference.MOD_ID)
+    public static final CreativeTabs EC_BLOCKS_TAB = new CreativeTabs(Reference.MOD_ID.toLowerCase() + ".blocks")
     {
         @Override
         public Item getTabIconItem()
@@ -27,4 +27,14 @@ public class CreativeTabEC
             return ModItems.inertDust;
         }
     };
+    
+    public static final CreativeTabs EC_NONBLOCKS_TAB = new CreativeTabs(Reference.MOD_ID.toLowerCase() + ".nonblocks")
+    {
+        @Override
+        public Item getTabIconItem()
+        {
+            return ModItems.inertDust;
+        }
+    };
+    
 }

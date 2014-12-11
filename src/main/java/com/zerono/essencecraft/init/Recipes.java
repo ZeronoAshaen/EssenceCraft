@@ -3,6 +3,7 @@ package com.zerono.essencecraft.init;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
+import net.minecraftforge.oredict.ShapedOreRecipe;
 import net.minecraftforge.oredict.ShapelessOreRecipe;
 import cpw.mods.fml.common.registry.GameRegistry;
 
@@ -10,20 +11,27 @@ public class Recipes
 {
     public static void Init()
     {
-        /* Depreciated
-        GameRegistry.addShapelessRecipe(new ItemStack(ModItems.redstoneSolution), new ItemStack(Items.redstone), new ItemStack(Items.water_bucket), new ItemStack(Items.glass_bottle));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModItems.glowstoneSolution), new ItemStack(Items.glowstone_dust), new ItemStack(Items.water_bucket), new ItemStack(Items.glass_bottle));
-        GameRegistry.addRecipe(new ShapelessOreRecipe(new ItemStack(ModItems.enderSolution), "dustEnderPearl", new ItemStack(Items.water_bucket), new ItemStack(Items.glass_bottle)));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModItems.redstoneSolution), new ItemStack(Items.redstone), new ItemStack(Items.potionitem));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModItems.glowstoneSolution), new ItemStack(Items.redstone), new ItemStack(Items.potionitem));
-        GameRegistry.addRecipe(new ShapelessOreRecipe(new ItemStack(ModItems.enderSolution), "dustEnderPearl", new ItemStack(Items.potionitem)));
-        */
-        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.essenceExtractor), "bsb", "scs", "sbs", 'b', new ItemStack(Items.glass_bottle), 's', new ItemStack(Blocks.stone), 'c', new ItemStack(Items.compass));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModItems.inertDust,  9), new ItemStack(ModBlocks.inertStone));
-        
-        GameRegistry.addShapelessRecipe(new ItemStack(ModItems.solution, 1, 0), new ItemStack(Items.redstone), new ItemStack(Items.potionitem) );
-        GameRegistry.addShapelessRecipe(new ItemStack(ModItems.solution, 1, 1), new ItemStack(Items.glowstone_dust), new ItemStack(Items.potionitem));
-        GameRegistry.addRecipe(new ShapelessOreRecipe(new ItemStack(ModItems.solution, 1, 2), "dustEnderPearl"));
-        
+    	initModRecipes();
+    }
+    
+    private static void initModRecipes()
+    {
+    	// Block Recipes
+    	GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.inertStone), "iii", "iii", "iii", 'i', new ItemStack(ModItems.inertDust));
+    	GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.basicCentrifuge), "bbb", " c ", "sss", 'b', new ItemStack(Items.glass_bottle), 'c', new ItemStack(Items.compass), 's', new ItemStack(Blocks.stone_slab));
+    	// Filter Recipes
+    	GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.filterCloth, 2, 0), "sss", "sws", "sss", 's', new ItemStack(Items.string), 'w', new ItemStack(Blocks.web)));
+    	GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.filterCloth, 1, 1), "sfs", "fff", "sfs", 's', new ItemStack(Items.string), 'f', new ItemStack(ModItems.filterCloth, 1, 0)));
+    	GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.filterCloth, 1, 2), "sfs", "fcf", "sfs", 'f', new ItemStack(ModItems.filterCloth, 1, 1), 'c', "dustCoal", 's', new ItemStack(ModItems.filterCloth, 1, 1)));
+    	GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.filterCloth, 1, 3), "sfs", "fcf", "sfs", 'f', new ItemStack(ModItems.filterCloth, 1, 1), 'c', new ItemStack(ModItems.filterCloth, 1, 2), 's', new ItemStack(Items.string)));
+    	GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.filterFrame), "sws", "w w", "sws", 's', new ItemStack(Items.string), 'w', "stickWood"));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModItems.filterBasic), new ItemStack(ModItems.filterCloth, 1, 0), new ItemStack(ModItems.filterFrame));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModItems.filterFine), new ItemStack(ModItems.filterCloth, 1, 1), new ItemStack(ModItems.filterFrame));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModItems.filterCoal), new ItemStack(ModItems.filterCloth, 1, 2), new ItemStack(ModItems.filterFrame));
+    	GameRegistry.addShapelessRecipe(new ItemStack(ModItems.filterSturdy), new ItemStack(ModItems.filterCloth, 1, 3), new ItemStack(ModItems.filterFrame));
+    	
+    	// Solution Recipes
+    	GameRegistry.addRecipe(new ShapelessOreRecipe(new ItemStack(ModItems.solution, 1, 0), "oreSalt", new ItemStack(Items.potionitem, 1, 0)));
+    	GameRegistry.addRecipe(new ShapelessOreRecipe(new ItemStack(ModItems.solution, 1, 1), "oreSalt", new ItemStack(Items.potionitem, 1, 0), new ItemStack(ModItems.filterCloth, 1, 0)));
     }
 }

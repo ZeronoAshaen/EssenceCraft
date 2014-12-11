@@ -1,0 +1,54 @@
+# Configuration
+
+# Keys
+key.categories.ec=Essence Craft
+
+# Creative Tabs
+itemGroup.ec.items=EC Items
+itemGroup.ec.blocks=EC Blocks
+itemGroup.ec.nonblocks=EC Non Blocks
+
+# Items
+item.ec:solution.name=Solution
+item.ec:essence.name=Essence
+
+item.ec:solution.saline.name=Saline Solution
+item.ec:solution.redstone.name=Redstone Solution
+item.ec:solution.glowstone.name=Glowstone Solution
+item.ec:solution.ender.name=Ender Solution
+item.ec:solution.wither.name=Wither Solution
+item.ec:solution.ghast.name=Ghast Solution
+
+item.ec:inertDust.name=Inert Dust
+item.ec:dustEnderPearl.name=Ender Pearl Dust
+item.ec:inertPearl.name=Inert Pearl
+item.ec:dustCoal.name=Coal Dust
+
+item.ec:filter.cloth.name=Filter Cloth
+
+item.ec:filter.frame.name=Filter Frame
+item.ec:filter.basic.name=Filter
+item.ec:filter.fine.name=Fine Filter
+item.ec:filter.coal.name=Coal Filter
+item.ec:filter.sturdy.name=Sturdy Coal Filter
+
+# Tools
+item.ec:shovel.redstone.name=Redstone Infused Shovel [WIP]
+item.ec:shovel.glowstone.name=Glowstone Infused Shovel [WIP]
+item.ec:shovel.ender.name=Ender Infused Shovel [WIP]
+item.ec:shovel.ultima.name=Ultima-Shovel [WIP]
+item.ec:axe.redstone.name=Redstone Infused Axe [WIP]
+item.ec:axe.glowstone.name=Glowstone Infused Axe [WIP]
+item.ec:axe.ender.name=Ender Infused Axe [WIP]
+item.ec:axe.ultima.name=Ultima-Axe [WIP]
+item.ec:pick.redstone.name=Redstone Infused Pickaxe [WIP]
+item.ec:pick.glowstone.name=Glowstone Infused Pickaxe [WIP]
+item.ec:pick.ender.name=Ender Infused Pickaxe [WIP]
+item.ec:pick.ultima.name=Ultima-Pick [WIP]
+
+# Weapons
+item.ec:swordRedstone.name=Redstone Infused Sword [WIP]
+
+# Blocks
+tile.ec:inertStone.name=Inert Stone
+tile.ec:basicCentrifuge.name=Basic Centrifuge

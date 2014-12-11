@@ -2,5 +2,8 @@ package com.zerono.essencecraft.proxy;
 
 public abstract class CommonProxy implements IProxy
 {
-    
+    public void registerEventHandlers()
+    {
+    	
+    }
 }

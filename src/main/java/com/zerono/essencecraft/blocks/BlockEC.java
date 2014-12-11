@@ -14,8 +14,10 @@ public class BlockEC  extends Block
 {
     public BlockEC()
     {
-        this(Material.iron);
+        this(Material.rock);
         this.setCreativeTab(CreativeTabEC.EC_BLOCKS_TAB);
+        this.setHardness(1.5F);
+        this.setResistance(10.0F);
     }
     
     public BlockEC(Material material)
